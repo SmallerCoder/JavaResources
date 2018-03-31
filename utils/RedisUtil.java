@@ -21,7 +21,7 @@ public class RedisUtil {
 
 	private static Logger _log = LoggerFactory.getLogger(RedisUtil.class);
 	// Redis服务器IP
-	private static String IP = "39.108.161.221";
+	private static String IP = "";
 
 	// Redis的端口号
 	private static int PORT = 6379;
